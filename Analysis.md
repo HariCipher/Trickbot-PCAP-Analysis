@@ -1,5 +1,6 @@
 # TrickBot Infection — Full Traffic Analysis
 
+| | |
 |---|---|
 | **PCAP** | `2017-09-18-Trickbot-infection-traffic.pcap` |
 | **Source** | malware-traffic-analysis.net |
